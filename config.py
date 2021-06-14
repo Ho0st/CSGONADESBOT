@@ -1,0 +1,7 @@
+TOKEN='#'
+ADMIN_ID ='#'
+db_name='#'
+user_name='#'
+password ='#'
+host ='#'
+TOKEN_2 = '#'
