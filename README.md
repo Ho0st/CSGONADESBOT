@@ -1,4 +1,4 @@
-# telegrambot
+# telegrambot TG :@nades_bot
 ## under development
 ###  -correct exception handling
 ###  -introduction of statistics
